@@ -1,6 +1,5 @@
 <h1 align="center">Grazielly Souza</h1>
 <p align="center">Preview Screenshot</p>
-
 <h2>Page of Contents:</h2>
 
 - [Screenshot](#screenshot)
@@ -9,8 +8,8 @@
 
 
 # Screenshot
+<img src = "./img/screenshot-curriculo.png">
 
-<img src ="./img/screenshot-curriculo.png">
 <small><b>Initial Page of Currículo: ⇧</b></small>
 
 .
