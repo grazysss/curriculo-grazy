@@ -43,3 +43,14 @@
   - Contato</b></p>
 
 # 📌 Author
+- WebSite: [Currículo-Grazys on Github](https://grazysss.github.io/curriculo-grazy/)
+- Twitter: [@sz_grazys](https://twitter.com/sz_grays)
+- Instagram: [@grazysouzzax__](https://instagram.com/grazysouzzax__/)
+- Github: [SIGAM-LÁ!!!](https://github.com/grazysss/)
+
+.
+
+.
+
+.
+# FINISH!!! ツ
